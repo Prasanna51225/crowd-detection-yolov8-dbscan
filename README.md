@@ -1,5 +1,5 @@
 # Crowd-detection-yolov8-dbscan
-A high-precision crowd detection pipeline that combines YOLOv8 (object detection), DeepSORT (multi-object tracking), DBSCAN (density-based clustering), and temporal filtering to identify and track persistent groups of 3+ people across video frames. Includes annotated output videos and heatmap visualizations for crowd analysis.
+A high-precision crowd detection pipeline that combines YOLOv8 (object detection), DeepSORT (multi-object tracking), DBSCAN (density-based clustering), and temporal filtering to identify and track persistent groups of 3+ people across video frames. Includes annotated output videos and heatmap visualizations for crowd analysis. 
 This project implements a temporal crowd detection pipeline that identifies groups of people in a video who stay close together for a significant duration. It uses state-of-the-art computer vision techniques to detect, track, and analyze crowd behavior in real-time.
 
 ## Project Objective
