@@ -1,0 +1,3 @@
+!pip install --upgrade numpy scipy scikit-learn ultralytics opencv-python pandas tqdm
+if any problem arises regarding numpy and pandas then us the below 
+!pip install pandas==2.2.2 numpy==1.26.4 --force-reinstall
